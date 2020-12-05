@@ -1,1 +1,1 @@
-# FormExample-5.12.20-
+Bilgiler.bak dosyası veritabanı backup'ıdır.

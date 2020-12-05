@@ -1,0 +1,10 @@
+C:\Users\emirh\Desktop\css projects\formExamples\firstExample\firstExample\bin\Debug\firstExample.exe.config
+C:\Users\emirh\Desktop\css projects\formExamples\firstExample\firstExample\bin\Debug\firstExample.exe
+C:\Users\emirh\Desktop\css projects\formExamples\firstExample\firstExample\bin\Debug\firstExample.pdb
+C:\Users\emirh\Desktop\css projects\formExamples\firstExample\firstExample\obj\Debug\firstExample.csprojAssemblyReference.cache
+C:\Users\emirh\Desktop\css projects\formExamples\firstExample\firstExample\obj\Debug\firstExample.Form1.resources
+C:\Users\emirh\Desktop\css projects\formExamples\firstExample\firstExample\obj\Debug\firstExample.Properties.Resources.resources
+C:\Users\emirh\Desktop\css projects\formExamples\firstExample\firstExample\obj\Debug\firstExample.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\css projects\formExamples\firstExample\firstExample\obj\Debug\firstExample.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\css projects\formExamples\firstExample\firstExample\obj\Debug\firstExample.exe
+C:\Users\emirh\Desktop\css projects\formExamples\firstExample\firstExample\obj\Debug\firstExample.pdb
